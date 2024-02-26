@@ -1,3 +1,7 @@
-# pizza-shop
+# Pizza Shop
 
-a pizza shop website
+A cool client design for a pizza shop I made.
+
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript.
